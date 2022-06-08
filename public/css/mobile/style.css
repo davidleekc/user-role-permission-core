@@ -1,0 +1,89 @@
+h5.title-style {
+    width:193px;
+    height:64px;
+    top:318px;
+    left:24px;
+    position:absolute;
+    font-family: inter;
+    font-weight:700;
+    font-size:24px;
+    line-height:32px;
+    color: #2D2F30;
+    display: flex;
+    align-items: flex-end;
+}
+
+#patterm0 {
+    position: absolute;
+    width: 302px;
+    height: 231px;
+    left: 0px;
+    top: 77px;
+}
+
+.w3-text-grey, .w3-hover-text-grey:hover, .w3-text-gray, .w3-hover-text-gray:hover {
+    color: #757575!important;
+    filter: drop-shadow(2px 4px 5px rgba(255,255,255,0.5))!important;
+    position: absolute;
+    display: -webkit-box;
+    left: 0;
+    box-shadow: none;
+}
+
+input.w3-input.phone-number {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 13px 10px;
+    gap: 10px;
+    width: 327px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    border-radius: 4px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    font-size: 2.4rem;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+button.w3-button.w3-round {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    position: relative;
+    width: 327px;
+    height: 48px;
+    left: 0px;
+    top: 20px;
+    background: #FFB840;
+    border-radius: 4px;
+    font-weight: 900;
+    box-shadow: rgb(0 0 0 / 25%) 0px 14px 28px, rgb(0 0 0 / 22%) 0px 10px 10px;
+    box-shadow: rgb(156 156 156 / 25%) 0px 6px 12px -2px, rgb(115 115 115 / 25%) 0px 3px 5px -3px;
+}
+
+#g-phone-num {
+    display: block;
+    position: relative;
+    top: 39vh;
+    margin-left: -6px;
+}
+
+#g-password {
+    display:none;
+    position: relative;
+    top: 39vh;
+    margin-left: -6px;
+}
+
+.phpdebugbar.phpdebugbar-minimized {
+    display: none!important;
+}

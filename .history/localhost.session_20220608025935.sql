@@ -1,0 +1,1 @@
+CREATE DATABASE 'user_role_permission' CHARACTER SET 'utf8mb4' COLLATE 'utf8_general_ci';
